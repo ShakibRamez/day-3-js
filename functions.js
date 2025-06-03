@@ -14,8 +14,19 @@
 // console.log(greating);
 
 
-let btn = document.querySelector('#btn');
+// let btn = document.querySelector('#btn');
 
-btn.addEventListener("click", function(){
-    console.log("sonic");
-});
+// btn.addEventListener("click", function(){
+//     console.log("sonic");
+// });
+
+// task
+
+function myName(){
+    console.log("shakib");
+}
+
+myName();
+myName();
+myName();
+myName();
